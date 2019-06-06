@@ -1,1 +1,44 @@
-"# Git-Tutorial" 
+# Git Tutorial by J.C.Shim
+## Andong National Univ.
+### Computer Engineering
+
+#### 글머리 #의 개수는 5개까지
+
+소스코드 
+
+``` C언어
+#include<stdio.h>
+void main(){
+  pritnf("Git Tutorial\n");
+}
+```
+
+링크 
+
+[Vision Lab]  (http://cafe.naver.com/vl)
+
+[Vision Lab](http://cafe.naver.com/vl)
+
+순서 없는 목록
+* 깃 튜토리얼
+  * git clone
+  * git pull
+  * git commit
+    * git 1)
+    * git 2)
+    
+    
+인용문구
+
+> '깃 학습법'
+
+테이블
+
+이름|나이|이메일
+----|--|----|
+shim|18|s@a.b.c|
+kim|16|c@a.b.c|
+
+**치킨**
+~~맛없어~~
+
