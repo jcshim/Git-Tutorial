@@ -1,12 +1,12 @@
 # git start
 
-http://github.com 에서 사용자 만들기
+1. http://github.com 에서 사용자 만들기
 
-리포지토리 생성 First (README.md)
+2. 리포지토리 생성 First (README.md)
 
-https://git-scm.com/download/win git클라이언트 설치
+3. https://git-scm.com/download/win git클라이언트 설치
 
-<실행> cmd
+4. <실행> cmd
 
 c:\> md /git/First
 
