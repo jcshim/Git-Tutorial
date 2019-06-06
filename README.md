@@ -2,7 +2,7 @@
 ## Andong National Univ.
 ### Computer Engineering
 
-[Git Start & First Lab](https://github.com/jcshim/Git-Tutorial/git-start.md)
+[Git Start & First Lab](https://github.com/jcshim/Git-Tutorial/blob/master/git-start.md)
 
 #### 글머리 #의 개수는 5개까지
 
