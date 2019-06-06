@@ -8,11 +8,11 @@
 
 4. <실행> cmd
 
-  1) c:\> md /git/First
+* c:\> md /git/First
 
-  2) c:\> cd /git/First
+* c:\> cd /git/First
 
-  3) c:\> git clone //http://github/com/USER_ID/First
+* c:\> git clone //http://github/com/USER_ID/First
 
 
 [github는 md(mark down) 문법을 사용한다. 쉽고 간결하다.](https://gist.github.com/ihoneymon/652be052a0727ad59601)
