@@ -3,7 +3,7 @@
 
 # Git: 
 ## 분산 버전관리 시스템 
-# (VCS: Version Control System)
+### VCS: Version Control System
 * github
 * wikipidia
 * dropbox
