@@ -5,10 +5,10 @@
 * Recovery
 * Collaboration
 ### 역사: CVS>SVN>GIT
+----------------
 ## Github 계정
 * [github 계정생성](https://github.com/jcshim)에 가입
 * 저장소 만들기 / 저장소 주소복사
-----------------
 ## 명령 모드
 * [github 윈도우 클라이언트](https://desktop.github.com/) 다운로드
 ## git 사용법:
