@@ -1,7 +1,9 @@
 # Git Tutorial by J.C.Shim
 ### Andong National Univ. Computer Engineering
 
-Git: 분산 버전관리 시스템 (VCS: Version Control System)
+# Git: 
+## 분산 버전관리 시스템 
+# (VCS: Version Control System)
 * github
 * wikipidia
 * dropbox
