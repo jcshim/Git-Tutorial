@@ -1,5 +1,9 @@
 #Github 사용방법
 ## git 정의: 버전관리시스템(Version Control System)
+### VCS 활용목적: 변경사항 
+* Backup
+* Recovery
+* Collaboration
 ## Github 계정
 * [github 계정생성](https://github.com/jcshim)에 가입
 * 저장소 만들기 / 저장소 주소복사
