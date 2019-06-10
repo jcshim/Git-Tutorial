@@ -4,6 +4,7 @@
 * Backup
 * Recovery
 * Collaboration
+### 역사: CVS>SVN>GIT
 ## Github 계정
 * [github 계정생성](https://github.com/jcshim)에 가입
 * 저장소 만들기 / 저장소 주소복사
