@@ -8,6 +8,9 @@
 * wikipidia
 * dropbox
 
+# Git 시장
+[News에서 본 Git](http://kossa.kr/xe/link2/2015052)
+
 [Git Start & First Lab](https://github.com/jcshim/Git-Tutorial/blob/master/git-start.md)
 
 #### 글머리 #의 개수는 5개까지
