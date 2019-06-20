@@ -1,0 +1,23 @@
+// pull request 실습하기
+
+A : jcshim (심재창)
+B : annaturu (이영학) or 
+
+이영학 박사님이 저의 github에서 abc를 포크하고, 브랜치를 만든 후, README.md를 수정하고 pull request를 신청해 보세요.
+
+http://github.com/annatura
+B : https://github.com/jcshim/abc.git Fork
+cmd창에서
+B : Fork 한 Repo Clone
+B : 브랜치 생성  > git checkout -b newb
+B : README.md의 내용을 바꾸세요. 
+B : > git add .
+B : > git push origin newb
+
+http://github.com/annatura
+B : GitHub에서 추가한 브랜치로 이동
+B : GitHub에서 풀 리퀘 요청
+
+http://github.com/jcshim
+A : GitHub에서 풀 리퀘 요청 확인
+A : 요청 수락/기각
