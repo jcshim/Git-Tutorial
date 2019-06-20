@@ -1,12 +1,19 @@
-# Git Tutorial by J.C.Shim
+# Git Tutorial by J.C.Shim,
 ### Andong National Univ. Computer Engineering
 
-# Git: 
+# Git 이란?: 
 ## 분산 버전관리 시스템 
 ### VCS: Version Control System
 * github
 * wikipidia
 * dropbox
+
+#  Github에서 학습해야 할 내용들
+1. 파일 만들기 (markdown 언어)
+2. 폴더 만들기(파일 추가에서 폴더명/파일명)
+3. 이전 내용에서 추가 및 수정하기
+4. 원하는 싯점의 버전으로 돌아가는 실습
+5. 다른 사람들의 pull 요청에 대한 수용 또는 거부하기
 
 # Git 시장
 [News에서 본 Git](http://kossa.kr/xe/link2/2015052)
